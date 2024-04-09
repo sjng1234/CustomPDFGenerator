@@ -30,4 +30,4 @@ This is a simple tool to generate custom PDF invoice based on predefined templat
    > The command should be in the format: `/generate <id> <date> <amount>`
 5. The bot will respond with the generated PDF `invoice.pdf` as an attachment in the reply to the user.
   
-[![Sample Response](./images/telegram.png)
+![Sample Response](./images/telegram.png)
