@@ -19,7 +19,7 @@ This is a simple tool to generate custom PDF invoice based on predefined templat
 ```
 3. You will receive a response with the generated PDF invoice.
 
-[![Sample Response](./images/postman.png)
+![Sample Response](./images/postman.png)
 
 
 ## Running as a Telegram Bot application
